@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.hansonwang99.zipkintool.ZipkinConfiguration
